@@ -1,2 +1,24 @@
-# content-com.android.chrome.FileProvider-downloads-green-20txt-20for-20termux-20by-20dragonfist-20t
-content://com.android.chrome.FileProvider/downloads/green%20txt%20for%20termux%20by%20dragonfist%20tamilan.txt
+$ pkg update && pkg upgrade
+
+$ pkg install nano
+
+$ apt install python && apt install python2
+
+$ cd ..
+
+$ ls
+
+$ cd usr/etc
+
+$ ls
+
+$ rm -rf motd
+
+$ ls
+
+$ nano bash.bashrc
+
+ PS1='\033[01;34m\]+--\[\033[01;32m\]root\[\033[01;34m\]@\[\033[01;31m\]\h\[\033[00;34m\]\[\033[01;34m\]\w\[\033[00;34m\]\[\033[01;32m\]: \[\033[01;34m\]+?\[\033[01;31m\]#\[\033[01;32m\]'
+
+change "root" into your name
+ by DragonFist Tamilan
